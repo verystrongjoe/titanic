@@ -1,10 +1,12 @@
 # titanic
+Sunday Study Material 
+
+
+
+
 Titanic Survival Prediction
  
 Prerequisite
-
-
-
 
 [Degrees of freedom](https://en.wikipedia.org/wiki/Degrees_of_freedom_(statistics))
  : In statistics, the number of degrees of freedom is the number of values in the final calculation of a statistic that are free to vary.[1]
@@ -17,10 +19,6 @@ degree of freedom  : 주어진 조건에서 자유롭게 뽑을 수 있는 수
 표본분산에서 자유도 n-1로 나눠주는 경우?
 http://dain.tistory.com/317
 마지막 표본은 모집단의 수치에 맞추기 위해서 정해진 값을 뽑아야한다. 그래서 주어진 조건에서 자유롭게 뽑을 수 있는 수 마지막 표본은 자유롭게 못뽑는다.
-
-
-
-
 
 
 
