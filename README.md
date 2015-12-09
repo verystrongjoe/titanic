@@ -2,6 +2,7 @@
 
 ##Prerequisite
 아래는 알아야될 키워드에 대한 간단한 정리
+
 |Keyword|Description|
 |----------|:-------------:|
 | [Degrees of freedom](https://en.wikipedia.org/wiki/Degrees_of_freedom_(statistics)) | In statistics, the number of degrees of freedom is the number of values in the final calculation of a statistic that are free to vary.[1] The number of independent ways by which a dynamic system can move, without violating any constraint imposed on it, is called number of degrees of freedom. In other words, the number of degrees of freedom can be defined as the minimum number of independent coordinates that can specify the position of the system completely. 본자료 중 모집단에 대한 정보를 주는 독립적인 자료의 수 , http://www.statedu.com/term/7334 |
