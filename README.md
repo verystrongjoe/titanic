@@ -2,14 +2,9 @@
 
 ##Prerequisite
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
 
 |Keyword|Description|
+|----------|:-------------:|
 | [Degrees of freedom](https://en.wikipedia.org/wiki/Degrees_of_freedom_(statistics)) | In statistics, the number of degrees of freedom is the number of values in the final calculation of a statistic that are free to vary.[1] The number of independent ways by which a dynamic system can move, without violating any constraint imposed on it, is called number of degrees of freedom. In other words, the number of degrees of freedom can be defined as the minimum number of independent coordinates that can specify the position of the system completely. 본자료 중 모집단에 대한 정보를 주는 독립적인 자료의 수 , http://www.statedu.com/term/7334 |
 | degree of freedom  | 주어진 조건에서 자유롭게 뽑을 수 있는 수, 모집단이 아닌 표본에서 주로 쓴다. 표본분산에서 자유도 n-1로 나눠주는 경우에 대한 내용은 [여기](http://dain.tistory.com/317)를 참조 |
 | cross-classification |  classification according to more than one attribute at the same time; "the cross-classification of cases was done by age and sex" |
